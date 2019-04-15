@@ -1,9 +1,0 @@
-host = sts.streetscooter.eu
-port = 443
-username = christoph.doerr
-password = 1f2s3t4S5c!
-set-routes = 1
-set-dns = 1
-pppd-use-peerdns = 1
-trusted-cert = 8f7df4e0f91d5074e4c7313bce9ac523475d743461d2aa00cc9b455e0089362b
-
