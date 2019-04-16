@@ -22,6 +22,10 @@
     <param name="initial_pose_x" value="0.0"/>
     <param name="initial_pose_y" value="0.0"/>
     <param name="initial_pose_a" value="-0.785"/>
+    <param name="odom_alpha1" value="0.005"/>
+    <param name="odom_alpha2" value="0.005"/>
+    <param name="odom_alpha3" value="0.010"/>
+    <param name="odom_alpha4" value="0.005"/>
     <param name="laser_model_type" value="likelihood_field_prob"/>
   </node>
   
