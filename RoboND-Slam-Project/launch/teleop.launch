@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node name="teleop" pkg="udacity_bot" type="teleop" output="screen" args="-d (find udacity_bot)/config/robot_slam.rviz"/>
+</launch>
